@@ -9,5 +9,6 @@ int main(void)
     assert(my_strlen("Hello, World!") == 13);
 
     printf("All tests passed!\n");
+    printf("my_strlen tests completed successfully.\n");
     return 0;
 }
